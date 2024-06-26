@@ -24,6 +24,9 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <a href="https://www.wireshark.org" target="_blank">
   <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" alt="Wireshark"/>
 </a>
+<a href="https://www.kali.org" target="_blank">
+  <img src="https://img.shields.io/badge/-Kali%20Linux-557C94?&style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux"/>
+</a>
 
 
 
