@@ -11,7 +11,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| TODO| TODO|
+| SESSION AUTHENTICATION                        | <a href="https://github.com/RaineJohnson/Session-Authentication.git">Session Authentication Using Node.js</a>|
 | TODO| TODO|
 | TODO| TODO|
 | TODO| TODO|
