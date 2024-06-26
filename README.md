@@ -27,6 +27,12 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <a href="https://www.kali.org" target="_blank">
   <img src="https://img.shields.io/badge/-Kali%20Linux-557C94?&style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux"/>
 </a>
+<a href="https://www.oracle.com/virtualization/" target="_blank">
+  <img src="https://img.shields.io/badge/-Oracle%20VM-F80000?&style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle VM"/>
+</a>
+<a href="https://ubuntu.com" target="_blank">
+  <img src="https://img.shields.io/badge/-Ubuntu-E95420?&style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
+</a>
 
 
 
