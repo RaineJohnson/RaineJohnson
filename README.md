@@ -49,7 +49,10 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Certifications
 [Provide certifications that you have obtained - Remove this afterwards]]
 
-TODO
+<a href="https://www.isc2.org" target="_blank">
+  <img src="https://img.shields.io/badge/-ISC2-007D74?&style=for-the-badge&logo=isc2&logoColor=white" alt="ISC2"/>
+</a>
+
 
 ## Projects
 
