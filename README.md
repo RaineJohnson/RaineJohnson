@@ -55,3 +55,5 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Projects
 
 <a href="https://github.com/RaineJohnson/Authentication-with-passport.js.git">Authentication with passport.js</a>
+<a href="https://github.com/RaineJohnson/Bcrypt-Authentication.git">Authentication using Bcrypt.js</a>
+
