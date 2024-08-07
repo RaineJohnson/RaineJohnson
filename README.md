@@ -13,10 +13,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 |-----------------------------------------------|----------------------------|
 | SESSION AUTHENTICATION                        | <a href="https://github.com/RaineJohnson/Session-Authentication.git">Session Authentication Using Node.js</a>|
 | EXPRESS SESSION MANAGEMENT                    | <a href="https://github.com/RaineJohnson/Express-Session-Management.git">Securing An Express Application</a>|
-| TODO| TODO|
-| TODO| TODO|
-| TODO| TODO|
-| TODO| TODO|
 
 ## Tools
 
