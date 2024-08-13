@@ -15,6 +15,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | EXPRESS SESSION MANAGEMENT                    | <a href="https://github.com/RaineJohnson/Express-Session-Management.git">Securing An Express Application</a>|
 | OAUTH APPLICATION                             | <a href="https://github.com/RaineJohnson/OAuth-Through-GitHub.git">GitHub OAuth Application</a>|
 | MANAGING API KEYS AND FILES                   | <a href="https://github.com/RaineJohnson/Node-Env-Keys-Management.git">API Key and File Management</a>|
+| DATA SECURITY                                 | <a href="https://github.com/RaineJohnson/Data-Security-Application.git">School Database Security</a>|
 
 ## Tools
 
