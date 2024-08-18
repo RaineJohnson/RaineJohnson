@@ -16,6 +16,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | OAUTH APPLICATION                             | <a href="https://github.com/RaineJohnson/OAuth-Through-GitHub.git">GitHub OAuth Application</a>|
 | MANAGING API KEYS AND FILES                   | <a href="https://github.com/RaineJohnson/Node-Env-Keys-Management.git">API Key and File Management</a>|
 | DATA SECURITY                                 | <a href="https://github.com/RaineJohnson/Data-Security-Application.git">School Database Security</a>|
+| SQL INJECTION PREVENTION                      | <a href="https://github.com/RaineJohnson/SQL-Injection-Project.git">Ice Cream Web Application</a>|
 
 ## Tools
 
