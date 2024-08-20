@@ -7,7 +7,7 @@ I am an undergraduate at the University of Washington Bothell with a profound in
 
 My journey in computer science has led me to develop a passion for cybersecurity and people skills. I'm setting my sights on a security engineer job, where I can strive to implement secure solutions to problems while also having the people skills to manage teams efficiently and effectively.
 
-## Skills
+## Projects
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -52,7 +52,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </a>
 
 
-## Projects
+## Security Assessments
 
 <a href="https://github.com/RaineJohnson/Authentication-with-passport.js.git">Authentication with Passport.js</a> <br/>
 <a href="https://github.com/RaineJohnson/Bcrypt-Authentication.git">Authentication using Bcrypt</a> <br/>
