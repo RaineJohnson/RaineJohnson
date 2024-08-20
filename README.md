@@ -55,8 +55,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Projects
 
 <a href="https://github.com/RaineJohnson/Authentication-with-passport.js.git">Authentication with Passport.js</a> <br/>
-<a href="https://github.com/RaineJohnson/Bcrypt-Authentication.git">Authentication using Bcrypt</a>
-<a href="https://github.com/RaineJohnson/Stored-XSS-Attack.git">Stored XSS Attack</a>
-<a href="https://github.com/RaineJohnson/Reflected-XSS-Attack.git">Reflected XSS Attack</a>
+<a href="https://github.com/RaineJohnson/Bcrypt-Authentication.git">Authentication using Bcrypt</a> <br/>
+<a href="https://github.com/RaineJohnson/Stored-XSS-Attack.git">Stored XSS Attack</a> <br/>
+<a href="https://github.com/RaineJohnson/Reflected-XSS-Attack.git">Reflected XSS Attack</a> <br/>
 <a href="https://github.com/RaineJohnson/DOM-Based-XSS-Attack.git">DOM-Based XSS Attack</a>
 
