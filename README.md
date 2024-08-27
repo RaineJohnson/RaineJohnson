@@ -18,6 +18,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | DATA SECURITY                                 | <a href="https://github.com/RaineJohnson/Data-Security-Application.git">School Database Security</a>|
 | SQL INJECTION PREVENTION                      | <a href="https://github.com/RaineJohnson/SQL-Injection-Project.git">Ice Cream Web Application</a>|
 | PREVENTING CROSS-SITE SCRIPTING ATTACKS       | <a href="https://github.com/RaineJohnson/Preventing-XSS-Attacks.git">Fake Restaurant Reviews Web Application</a>|
+| DEFENSIVE CODING                              | <a href="https://github.com/RaineJohnson/Defensive-Coding.git">Proactive Code Security Application</a>|
 
 ## Tools
 
