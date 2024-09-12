@@ -47,6 +47,9 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <a href="https://www.splunk.com" target="_blank">
   <img src="https://img.shields.io/badge/-Splunk%20SIEM-000000?&style=for-the-badge&logo=Splunk&logoColor=white" alt="Splunk SIEM"/>
 </a>
+<a href="https://gnupg.org" target="_blank">
+  <img src="https://img.shields.io/badge/-GPG-000000?&style=for-the-badge&logo=GnuPG&logoColor=white" alt="GPG"/>
+</a>
 
 
 
