@@ -56,9 +56,10 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Certifications
 
-<a href="https://www.isc2.org" target="_blank">
-  <img src="https://img.shields.io/badge/-ISC2-007D74?&style=for-the-badge&logo=isc2&logoColor=white" alt="ISC2"/>
+<a href="https://github.com/RaineJohnson/Certifications.git" target="_blank">
+  <img src="https://img.shields.io/badge/-GitHub%20Certifications-181717?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub Certifications"/>
 </a>
+
 
 
 ## Security Assessments
