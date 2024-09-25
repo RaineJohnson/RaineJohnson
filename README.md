@@ -52,6 +52,47 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </a>
 
 
+## Programming Languages
+<a href="https://www.python.org" target="_blank">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" alt="Python"/>
+</a>
+<a href="https://isocpp.org/" target="_blank">
+  <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white" alt="C++"/>
+</a>
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
+  <img src="https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=C&logoColor=white" alt="C"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black" alt="JavaScript"/>
+</a>
+<a href="https://www.gnu.org/software/bash/" target="_blank">
+  <img src="https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=GNU-Bash&logoColor=white" alt="Bash"/>
+</a>
+<a href="https://en.wikipedia.org/wiki/SQL" target="_blank">
+  <img src="https://img.shields.io/badge/-SQL-003B57?style=for-the-badge&logo=MySQL&logoColor=white" alt="SQL"/>
+</a>
+<a href="https://www.php.net/" target="_blank">
+  <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white" alt="PHP"/>
+</a>
+<a href="https://www.java.com/" target="_blank">
+  <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=Java&logoColor=white" alt="Java"/>
+</a>
+<a href="https://en.wikipedia.org/wiki/Assembly_language" target="_blank">
+  <img src="https://img.shields.io/badge/-Assembly-525252?style=for-the-badge&logo=AssemblyScript&logoColor=white" alt="Assembly"/>
+</a>
+<a href="https://www.ruby-lang.org/en/" target="_blank">
+  <img src="https://img.shields.io/badge/-Ruby-CC342D?style=for-the-badge&logo=Ruby&logoColor=white" alt="Ruby"/>
+</a>
+<a href="https://golang.org/" target="_blank">
+  <img src="https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=Go&logoColor=white" alt="Go"/>
+</a>
+<a href="https://expressjs.com/" target="_blank">
+  <img src="https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=Express&logoColor=white" alt="Express"/>
+</a>
+<a href="https://docs.microsoft.com/en-us/powershell/" target="_blank">
+  <img src="https://img.shields.io/badge/-PowerShell-5391FE?style=for-the-badge&logo=PowerShell&logoColor=white" alt="PowerShell"/>
+</a>
+
 
 
 ## Certifications
