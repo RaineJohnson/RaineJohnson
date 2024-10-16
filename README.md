@@ -102,7 +102,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Certifications
 
 <a href="https://github.com/RaineJohnson/Certifications.git" target="_blank">
-  <img src="https://img.shields.io/badge/-GitHub%20Certifications-181717?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub Certifications"/>
+  <img src="https://img.shields.io/badge/-GitHub%20Certifications-181717?&style=for-the-badge&logo=github&logoColor=white" alt="Certifications"/>
 </a>
 
 
