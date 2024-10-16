@@ -1,5 +1,8 @@
 # Hi There! I'm Raine Johnson
-<a href="https://www.linkedin.com/in/raine-johnson/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/raine-johnson/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /> <a href="https://github.com/RaineJohnson/Non-Code-Security-Documentation/blob/main/Raine%20Johnson%20Resume.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/-Resume-181717?&style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</a>
 
 I am an undergraduate at the University of Washington Bothell with a profound interest in technology and cybersecurity, with a dedication to solving complex security problems.
 
