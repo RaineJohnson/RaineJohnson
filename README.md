@@ -112,10 +112,10 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <a href="https://www.cisa.gov/fisma" target="_blank">
   <img src="https://img.shields.io/badge/-FISMA-003366?style=for-the-badge&logo=GOV&logoColor=white" alt="FISMA"/>
 </a>
-<a href="https://www2.ed.gov/policy/gen/guid/fpco/ferpa/index.html" target="_blank">
+<a href="https://studentprivacy.ed.gov/ferpa" target="_blank">
   <img src="https://img.shields.io/badge/-FERPA-003366?style=for-the-badge&logo=Education&logoColor=white" alt="FERPA"/>
 </a>
-<a href="https://www.hhs.gov/hipaa/index.html" target="_blank">
+<a href="https://www.hhs.gov/hipaa/for-professionals/index.html" target="_blank">
   <img src="https://img.shields.io/badge/-HIPAA-0072CE?style=for-the-badge&logo=Health&logoColor=white" alt="HIPAA"/>
 </a>
 
