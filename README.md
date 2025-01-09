@@ -60,7 +60,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </a>
 
 
-## Programming Languages And Policies
+## Programming Languages
 <a href="https://www.python.org" target="_blank">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" alt="Python"/>
 </a>
@@ -100,6 +100,11 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank">
   <img src="https://img.shields.io/badge/-PowerShell-5391FE?style=for-the-badge&logo=PowerShell&logoColor=white" alt="PowerShell"/>
 </a>
+
+
+
+## Policies and Guidelines
+
 <a href="https://www.fedramp.gov/" target="_blank">
   <img src="https://img.shields.io/badge/-FedRAMP-004990?style=for-the-badge&logo=FedRAMP&logoColor=white" alt="FedRAMP"/>
 </a>
@@ -115,7 +120,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <a href="https://www.hhs.gov/hipaa/for-professionals/index.html" target="_blank">
   <img src="https://img.shields.io/badge/-HIPAA-0072CE?style=for-the-badge&logo=Health&logoColor=white" alt="HIPAA"/>
 </a>
-
 
 
 
