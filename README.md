@@ -60,7 +60,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </a>
 
 
-## Programming Languages
+## Programming Languages And Policies
 <a href="https://www.python.org" target="_blank">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" alt="Python"/>
 </a>
@@ -100,6 +100,25 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank">
   <img src="https://img.shields.io/badge/-PowerShell-5391FE?style=for-the-badge&logo=PowerShell&logoColor=white" alt="PowerShell"/>
 </a>
+<a href="https://www.fedramp.gov/" target="_blank">
+  <img src="https://img.shields.io/badge/-FedRAMP-004990?style=for-the-badge&logo=FedRAMP&logoColor=white" alt="FedRAMP"/>
+</a>
+<a href="https://www.nist.gov/cyberframework" target="_blank">
+  <img src="https://img.shields.io/badge/-NIST%20CSF-006699?style=for-the-badge&logo=NIST&logoColor=white" alt="NIST Cybersecurity Framework"/>
+</a>
+<a href="https://www.cisa.gov/" target="_blank">
+  <img src="https://img.shields.io/badge/-CISA-005A9C?style=for-the-badge&logo=CISA&logoColor=white" alt="CISA"/>
+</a>
+<a href="https://www.cisa.gov/fisma" target="_blank">
+  <img src="https://img.shields.io/badge/-FISMA-003366?style=for-the-badge&logo=GOV&logoColor=white" alt="FISMA"/>
+</a>
+<a href="https://www2.ed.gov/policy/gen/guid/fpco/ferpa/index.html" target="_blank">
+  <img src="https://img.shields.io/badge/-FERPA-003366?style=for-the-badge&logo=Education&logoColor=white" alt="FERPA"/>
+</a>
+<a href="https://www.hhs.gov/hipaa/index.html" target="_blank">
+  <img src="https://img.shields.io/badge/-HIPAA-0072CE?style=for-the-badge&logo=Health&logoColor=white" alt="HIPAA"/>
+</a>
+
 
 
 
