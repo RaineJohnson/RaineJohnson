@@ -120,6 +120,22 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <a href="https://www.hhs.gov/hipaa/for-professionals/index.html" target="_blank">
   <img src="https://img.shields.io/badge/-HIPAA-0072CE?style=for-the-badge&logo=Health&logoColor=white" alt="HIPAA"/>
 </a>
+<a href="https://oag.ca.gov/privacy/ccpa" target="_blank">
+  <img src="https://img.shields.io/badge/-CCPA-175E1C?style=for-the-badge&logo=California&logoColor=white" alt="CCPA"/>
+</a>
+<a href="https://www.pcisecuritystandards.org/" target="_blank">
+  <img src="https://img.shields.io/badge/-PCI%20DSS-005F8D?style=for-the-badge&logo=Secure&logoColor=white" alt="PCI DSS"/>
+</a>
+<a href="https://gdpr-info.eu/" target="_blank">
+  <img src="https://img.shields.io/badge/-GDPR-003399?style=for-the-badge&logo=EU&logoColor=white" alt="GDPR"/>
+</a>
+<a href="https://www.ftc.gov/business-guidance/privacy-security/gramm-leach-bliley-act" target="_blank">
+  <img src="https://img.shields.io/badge/-GLBA-006747?style=for-the-badge&logo=FTC&logoColor=white" alt="GLBA"/>
+</a>
+<a href="https://www.justice.gov/jm/jm-9-48000-computer-fraud" target="_blank">
+  <img src="https://img.shields.io/badge/-CFAA-8A2BE2?style=for-the-badge&logo=DOJ&logoColor=white" alt="CFAA"/>
+</a>
+
 
 
 
