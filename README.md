@@ -16,6 +16,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 |-----------------------------------------------|----------------------------|
 | C++ PROJECTS                                  | <a href="https://github.com/RaineJohnson/C-Plus-Plus-Projects.git">C++ Projects</a>|
 | NMAP SCRIPTS                                  | <a href="https://github.com/RaineJohnson/Nmap-Scripts.git">Nmap Scripting Engine</a>|
+| HASH COLLISION                                | <a href="https://github.com/RaineJohnson/337Assignment2.git">OTP Generator</a>|
 | ENCRYPTION ALGORITHMS                         | <a href="https://github.com/RaineJohnson/XOR-Cipher.git">XOR Cipher</a>|
 | SESSION AUTHENTICATION                        | <a href="https://github.com/RaineJohnson/Session-Authentication.git">Session Authentication Using Node.js</a>|
 | EXPRESS SESSION MANAGEMENT                    | <a href="https://github.com/RaineJohnson/Express-Session-Management.git">Securing An Express Application</a>|
