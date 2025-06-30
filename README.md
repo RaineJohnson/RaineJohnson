@@ -4,7 +4,7 @@
 </a>
 </a>
 
-I am an undergraduate at the University of Washington Bothell with a profound interest in technology and cybersecurity, with a dedication to solving complex security problems.
+I am a graduate from the University of Washington Bothell with a profound interest in technology and cybersecurity, with a dedication to solving complex security problems.
 
 ## Objective
 
