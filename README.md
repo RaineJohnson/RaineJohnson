@@ -14,6 +14,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
+| PASSWORD MANAGER                              | <a href="https://github.com/RaineJohnson/PersonalPasswordManager.git">Local Password Manager</a>|
 | C++ PROJECTS                                  | <a href="https://github.com/RaineJohnson/C-Plus-Plus-Projects.git">C++ Projects</a>|
 | NMAP SCRIPTS                                  | <a href="https://github.com/RaineJohnson/Nmap-Scripts.git">Nmap Scripting Engine</a>|
 | HASH COLLISION                                | <a href="https://github.com/RaineJohnson/337Assignment2.git">OTP Generator</a>|
