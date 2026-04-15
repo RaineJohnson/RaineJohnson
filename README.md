@@ -95,5 +95,3 @@ Security-focused engineer with hands-on experience in OT cybersecurity, network 
 | Security Analyst | TryHackMe |
 
 ---
-
-> *"Always looking for security vulnerabilities..."*
