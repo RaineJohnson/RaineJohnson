@@ -4,7 +4,7 @@
 [![Resume](https://img.shields.io/badge/-Resume-FFD700?&style=for-the-badge&logo=googledocs&logoColor=white)](https://github.com/RaineJohnson/Non-Code-Security-Documentation/blob/main/RaineJohnsonResume.pdf)
 [![TryHackMe](https://img.shields.io/badge/-TryHackMe-212C42?&style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/)
 
-Security-focused engineer with hands-on experience in OT cybersecurity, network architecture, and secure systems engineering. Background includes deploying security infrastructure at scale (Estée Lauder Companies), building secure VR systems across international environments (Bose), and security testing 500+ products (Microsoft). I build things, break things, and document what I learn.
+Security-focused engineer with hands-on experience in OT cybersecurity, network architecture, and secure systems engineering. Background includes deploying security infrastructure at scale (Estée Lauder Companies), building VR systems across international environments (Bose), and security testing 500+ products (Microsoft). I build things, break things, and document what I learn.
 
 ---
 
