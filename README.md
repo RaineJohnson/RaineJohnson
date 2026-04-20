@@ -27,6 +27,7 @@ Security-focused engineer with hands-on experience in OT cybersecurity, network 
 
 | Project | Description |
 |---------|-------------|
+| [Extensio-Based Password Manager](https://github.com/RaineJohnson/Extension-Password-Manager.git) | Web application demonstrating parameterized queries, input validation, and ORM-based defenses against SQL injection. |
 | [SQL Injection Prevention](https://github.com/RaineJohnson/SQL-Injection-Project) | Web application demonstrating parameterized queries, input validation, and ORM-based defenses against SQL injection. |
 | [XSS Attack Surface Analysis](https://github.com/RaineJohnson/Preventing-XSS-Attacks) | Stored, reflected, and DOM-based XSS attack demonstrations with corresponding mitigations. |
 | [Defensive Coding Practices](https://github.com/RaineJohnson/Defensive-Coding) | Proactive security patterns for input sanitization, error handling, and secure defaults. |
